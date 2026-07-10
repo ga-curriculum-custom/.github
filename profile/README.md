@@ -2,36 +2,23 @@
 
 # General Assembly | Enterprise Curriculum
 
-This organization holds General Assembly's **internal, client-specific enterprise curriculum**. Its repositories are used by GA staff, contracted curriculum developers, and instructors.
+This organization holds General Assembly's **internal, client-specific enterprise curriculum** — the program templates used by GA staff, contracted curriculum developers, and instructors. All repositories are private.
 
-> **Students are never granted access to repositories in this organization.** You are added only to your own cohort's delivery repository in the **ga-deliveries** organization.
+> **Are you a student?** No — this organization isn't for you, and your course materials aren't here. You're added to your own cohort's repository in the **ga-deliveries** organization. Watch for a GitHub email invitation, or ask your instructor for the link.
 
 ---
 
 <details>
-<summary><strong>I need access to a repository</strong></summary>
+<summary><strong>GA team members — how to request access</strong></summary>
 
-1. Have a **personal GitHub account** with **two-factor authentication (2FA) enabled** — https://github.com/settings/security
-2. [Email/Slack (TBD)](#) with your **role** and the **program** you are working on.
+1. Make sure you have a **personal GitHub account** with **two-factor authentication (2FA) enabled** — https://github.com/settings/security
+2. Request access through **[GA's GitHub access request channel](#)** _(Slack channel — TBD)_ <!-- TODO: replace (#) with the Slack channel link once it is created --> with your **role** and the **team or program** you're joining.
 
-Once approved, you will receive a GitHub invitation to the Org.
-
-</details>
-
-<details>
-<summary><strong>I am a contracted curriculum developer</strong></summary>
-
-After your access is approved you will be added to the appropriate team and given access to the specific repositories you have been assigned. Full contributor documentation — workflow, standards, and team permissions — is available on the member view of this profile once you are a member.
-
-</details>
-
-<details>
-<summary><strong>I am a student in a cohort</strong></summary>
-
-You do not need to join this organization, and your materials are not here. Your instructor adds you as an **outside collaborator** on your cohort's repository in **ga-deliveries**. Watch for a GitHub email invitation, or ask your instructor for the link.
+Access is granted at the **organization level**, not per repository. Once you're approved and added as an org member, you'll have access across this organization — there's no need to request individual repos.
 
 </details>
 
 ---
 
-These repositories contain client-specific and licensed curriculum. Access is managed deliberately to protect General Assembly and client intellectual property. For anything not covered here, contact General Assembly through your existing point of contact.
+**Questions, or not sure why you're here?**
+If you're not a GA student or team member, head to **[generalassemb.ly](https://generalassemb.ly)** to explore our courses and get in touch.
